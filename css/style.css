@@ -126,7 +126,7 @@ input[type="submit"]:hover{
     border: none;
     padding: 15px;
     border-radius: 8px;
-    flex-grow: 0.96;
+    flex-grow: 0.95;
     background-color: #212121;
     outline: none;
     color: #f2f2f2;
